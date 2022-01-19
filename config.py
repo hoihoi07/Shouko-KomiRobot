@@ -1,5 +1,5 @@
 """
-This Bot Was Developed By The Owner Of @StrawHat_Network.
+This Bot Was Developed By The Owner Of @jetbots.
 Join his network and support him.
 """
 import os
