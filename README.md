@@ -16,7 +16,7 @@
 𝔻𝕠𝕟𝕥 𝕗𝕠𝕣𝕘𝕖𝕥 𝕥𝕠 𝕘𝕚𝕧𝕖 𝕥𝕙𝕚𝕤 𝕣𝕖𝕡𝕠 𝕤𝕥𝕒𝕣𝕤 𝕒𝕟𝕕 𝕛𝕠𝕚𝕟 𝕠𝕦𝕣 𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞 ℕ𝕖𝕥𝕨𝕠𝕣𝕜.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoihoi07/Shouko-KomiRobot)
 
 
 # Vars
@@ -28,10 +28,10 @@ AUTH_USERS = Your telegram id
 ```
 
 # Credits 
-• [Dark](http://t.me/Bro_isDarkal)
+• [Jettastic](http://t.me/jettastic)
 
 
 • [Kai84](http://t.me/Kai_8_4)
 
 # Network
-• [Network](http://t.me/StrawHat_Network)
+• [Network](http://t.me/jetbots)
